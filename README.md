@@ -7,20 +7,20 @@ The dataset is stored in an Excel file named Raw Data.xlsx. It includes the foll
 - Order ID
 - Cust ID
 - Gender
-Age 
-Date
-Status
-Channel 
-Category
-Size
-Qty
-currency
-Amount
-ship-city
-ship-state
-ship-postal-code
-ship-country
-B2B
+- Age 
+- Date
+- Status
+- Channel 
+- Category
+- Size
+- Qty
+- currency
+- Amount
+- ship-city
+- ship-state
+- ship-postal-code
+- ship-country
+- B2B
 
 
 # Project Overview
