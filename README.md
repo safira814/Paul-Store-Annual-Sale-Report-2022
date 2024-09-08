@@ -1,7 +1,7 @@
 # Paul-Store-Annual-Sale-Report-2022
 Welcome to the Paul Store Sales Analysis Excel Project repository! This project focuses on analyzing sales data using Microsoft Excel. The dataset consists of various factors related to customers and their purchasing behavior.
 
-# Dataset
+## Dataset
 The dataset is stored in an Excel file named Raw Data.xlsx. It includes the following columns:
 
 •	Order ID
