@@ -26,7 +26,7 @@ The dataset is stored in an Excel file named Raw Data.xlsx. It includes the foll
 # Project Overview
 This project involves the following steps and components:
 
-Data Cleaning and Preprocessing: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.
+- Data Cleaning and Preprocessing: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.
 
 Pivot Tables and Charts: Utilizing Excel's pivot tables and charting features, we've created visualizations to uncover trends and insights related to different aspects of the dataset.
 
