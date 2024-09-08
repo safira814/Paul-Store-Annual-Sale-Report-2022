@@ -3,23 +3,25 @@ Welcome to the Paul Store Sales Analysis Excel Project repository! This project 
 
 # Dataset
 The dataset is stored in an Excel file named Raw Data.xlsx. It includes the following columns:
-# Order ID
-# Cust ID
-Gender
-Age 
-Date
-Status
-Channel 
-Category
-Size
-Qty
-currency
-Amount
-ship-city
-ship-state
-ship-postal-code
-ship-country
-B2B
+
+•	Order ID
+•	Cust ID
+•	Gender
+•	Age 
+•	Date
+•	Status
+•	Channel 
+•	Category
+•	Size
+•	Qty
+•	currency
+•	Amount
+•	ship-city
+•	ship-state
+•	ship-postal-code
+•	ship-country
+•	B2B
+
 
 # Project Overview
 This project involves the following steps and components:
@@ -33,7 +35,7 @@ Sales Analysis Dashboard: The project culminates in a visual dashboard created e
 # Usage
 To explore the project:
 
-Download the Raw Data.xlsx file from this repository.
-Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
-Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
+  1. Download the Raw Data.xlsx file from this repository.
+  2. Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
+  3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
 Feel free to customize the project according to your needs and use it as a reference for your own Excel-based analysis.
